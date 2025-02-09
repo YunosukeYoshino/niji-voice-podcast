@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "test-niji",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-02-10",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+ "vars": {
+    "CHAR_01": "390b3e16-6443-4782-b38b-b87dee705c9b",
+    "CHAR_02": "d158278c-c4fa-461a-b271-468146ad51c9"
+  }
+}
